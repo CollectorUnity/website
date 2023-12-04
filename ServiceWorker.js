@@ -1,4 +1,4 @@
-const cacheName = "Little Sword-Collector Card Battles-0.0.27.50f749a";
+const cacheName = "Little Sword-Collector Card Battles-0.0.72.48b4209";
 const contentToCache = [
     "Build/webgl.loader.js",
     "Build/webgl.framework.js",
